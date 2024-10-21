@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![vlsi cmos diagram](https://github.com/user-attachments/assets/5a08cfe9-661b-424d-91c8-800d23d8549f)
+
 
 
  
@@ -76,7 +77,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![cmos vlsi diagram 2](https://github.com/user-attachments/assets/18d64e12-5270-4810-985e-211abc430295)
 
 
  
@@ -97,12 +98,13 @@ For Transient Analysis Settings and Output
  
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ ![graph 1](https://github.com/user-attachments/assets/576d7c6c-5783-4820-a2a7-a29cc3cad657)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![vlsi graph 2](https://github.com/user-attachments/assets/ffaa821d-7480-46a4-bfbe-d6bae101869d)
 
  
 
